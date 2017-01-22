@@ -1,0 +1,199 @@
+Removed Pin From Net: NetName=GND-ISO Pin=C11-1
+Removed Pin From Net: NetName=N$58 Pin=C11-2
+Removed Pin From Net: NetName=12V Pin=F2-1
+Removed Pin From Net: NetName=12V Pin=F2-2
+Removed Pin From Net: NetName=GND Pin=U$3-GND0
+Removed Pin From Net: NetName=GND Pin=U$3-GND1
+Change Component DesignItemId : Designator=F1 Old DesignItemId=5X20MM_LITTLEFUSE_CARTRIDGE New DesignItemId=FUSE_5X20_LITTLEFUSE
+Change Component DesignItemId : Designator=F2 Old DesignItemId=5X20MM_LITTLEFUSE_CARTRIDGE New DesignItemId=FUSE_5X20_LITTLEFUSE
+Change Component DesignItemId : Designator=Y-STEPPER Old DesignItemId=43045-0412 New DesignItemId=HEADER_POS4_?43045-0412
+Change Component DesignItemId : Designator=Z-STEPPER Old DesignItemId=43045-0412 New DesignItemId=HEADER_POS4_?43045-0412
+Change Component DesignItemId : Designator=LIMIT_SWITCH Old DesignItemId=43045-0812 New DesignItemId=HEADER_POS8_?43045-0812
+Change Component DesignItemId : Designator=RPI3_PWR Old DesignItemId=43650-0215 New DesignItemId=HEADER_POS2_?43650-0215
+Change Component DesignItemId : Designator=ENCODER Old DesignItemId=43650-0315 New DesignItemId=HEADER_POS3_?43650-0315
+Change Component DesignItemId : Designator=C7 Old DesignItemId=C1206K New DesignItemId=C-EUC1206K
+Change Component DesignItemId : Designator=C8 Old DesignItemId=C1206K New DesignItemId=C-EUC1206K
+Change Component DesignItemId : Designator=C9 Old DesignItemId=C1206K New DesignItemId=C-EUC1206K
+Change Component DesignItemId : Designator=C10 Old DesignItemId=C1206K New DesignItemId=C-EUC1206K
+Change Component DesignItemId : Designator=C12 Old DesignItemId=C1206K New DesignItemId=C-EUC1206K
+Change Component DesignItemId : Designator=C13 Old DesignItemId=C1206K New DesignItemId=C-EUC1206K
+Change Component DesignItemId : Designator=C14 Old DesignItemId=C1206K New DesignItemId=C-EUC1206K
+Change Component DesignItemId : Designator=C15 Old DesignItemId=C1206K New DesignItemId=C-EUC1206K
+Change Component DesignItemId : Designator=C16 Old DesignItemId=C1206K New DesignItemId=C-EUC1206K
+Change Component DesignItemId : Designator=C17 Old DesignItemId=C1206K New DesignItemId=C-EUC1206K
+Change Component DesignItemId : Designator=C18 Old DesignItemId=C1206K New DesignItemId=C-EUC1206K
+Change Component DesignItemId : Designator=C19 Old DesignItemId=C1206K New DesignItemId=C-EUC1206K
+Change Component DesignItemId : Designator=U$2 Old DesignItemId=CONNECTOR New DesignItemId=RPI3_CON
+Change Component DesignItemId : Designator=U$3 Old DesignItemId=D24VXXFX_BREAKOUT New DesignItemId=D24V50F5
+Change Component DesignItemId : Designator=D2 Old DesignItemId=DO35Z10 New DesignItemId=ZENER-DIODEDO35Z10
+Change Component DesignItemId : Designator=C1 Old DesignItemId=E2,5-6 New DesignItemId=CPOL-EUE2.5-6
+Change Component DesignItemId : Designator=C3 Old DesignItemId=E2,5-6 New DesignItemId=CPOL-EUE2.5-6
+Change Component DesignItemId : Designator=D1 Old DesignItemId=P6T15 New DesignItemId=SCHOTTKY-DIODEP6T15
+Change Component DesignItemId : Designator=C5 Old DesignItemId=PANASONIC_E New DesignItemId=CPOL-EUE
+Change Component DesignItemId : Designator=C6 Old DesignItemId=PANASONIC_E New DesignItemId=CPOL-EUE
+Change Component DesignItemId : Designator=R1 Old DesignItemId=R1206 New DesignItemId=R-US_R1206
+Change Component DesignItemId : Designator=R13 Old DesignItemId=R1206 New DesignItemId=R-US_R1206
+Change Component DesignItemId : Designator=R14 Old DesignItemId=R1206 New DesignItemId=R-US_R1206
+Change Component DesignItemId : Designator=R15 Old DesignItemId=R1206 New DesignItemId=R-US_R1206
+Change Component DesignItemId : Designator=R16 Old DesignItemId=R1206 New DesignItemId=R-US_R1206
+Change Component DesignItemId : Designator=R17 Old DesignItemId=R1206 New DesignItemId=R-US_R1206
+Change Component DesignItemId : Designator=R18 Old DesignItemId=R1206 New DesignItemId=R-US_R1206
+Change Component DesignItemId : Designator=R19 Old DesignItemId=R1206 New DesignItemId=R-US_R1206
+Change Component DesignItemId : Designator=R20 Old DesignItemId=R1206 New DesignItemId=R-US_R1206
+Change Component DesignItemId : Designator=R21 Old DesignItemId=R1206 New DesignItemId=R-US_R1206
+Change Component DesignItemId : Designator=R22 Old DesignItemId=R1206 New DesignItemId=R-US_R1206
+Change Component DesignItemId : Designator=R23 Old DesignItemId=R1206 New DesignItemId=R-US_R1206
+Change Component DesignItemId : Designator=R24 Old DesignItemId=R1206 New DesignItemId=R-US_R1206
+Change Component DesignItemId : Designator=IC1 Old DesignItemId=SO08 New DesignItemId=OPA237U
+Change Component DesignItemId : Designator=ADC Old DesignItemId=SOT-23-6 New DesignItemId=ADS7868
+Change Component DesignItemId : Designator=ISO-AMP Old DesignItemId=SSO-8 New DesignItemId=ACPL-C870
+Change Component DesignItemId : Designator=IC2 Old DesignItemId=TO92 New DesignItemId=78*Z
+Change Component Comment : Designator=F2 Old Comment= New Comment=1A
+Change Component Comment : Designator=F1 Old Comment= New Comment=4A
+Change Component Comment : Designator=U$3 Old Comment= New Comment=D24V50F5
+Change Component Comment : Designator=Y-DRIVER Old Comment= New Comment=DRV8825BREAKOUT
+Change Component Comment : Designator=Z-DRIVER Old Comment= New Comment=DRV8825BREAKOUT
+Change Component Comment : Designator=RPI3_PWR Old Comment= New Comment=HEADER_POS2_?43650-0215
+Change Component Comment : Designator=ENCODER Old Comment= New Comment=HEADER_POS3_?43650-0315
+Change Component Comment : Designator=Y-STEPPER Old Comment= New Comment=HEADER_POS4_?43045-0412
+Change Component Comment : Designator=Z-STEPPER Old Comment= New Comment=HEADER_POS4_?43045-0412
+Change Component Comment : Designator=LIMIT_SWITCH Old Comment= New Comment=HEADER_POS8_?43045-0812
+Change Component Comment : Designator=Y-JMP Old Comment= New Comment=MA03-2
+Change Component Comment : Designator=Z-JMP Old Comment= New Comment=MA03-2
+Change Component Comment : Designator=U$2 Old Comment= New Comment=RPI3_CON
+Change Component Comment : Designator=IC2 Old Comment=78L05Z New Comment=78*Z
+Change Component Description : Designator=ADC Old Description= New Description=ADS7868    8-bit ADC   Datasheet
+Change Component Description : Designator=C7 Old Description= New Description=CAPACITOR, European symbol
+Change Component Description : Designator=C8 Old Description= New Description=CAPACITOR, European symbol
+Change Component Description : Designator=C9 Old Description= New Description=CAPACITOR, European symbol
+Change Component Description : Designator=C10 Old Description= New Description=CAPACITOR, European symbol
+Change Component Description : Designator=C12 Old Description= New Description=CAPACITOR, European symbol
+Change Component Description : Designator=C13 Old Description= New Description=CAPACITOR, European symbol
+Change Component Description : Designator=C14 Old Description= New Description=CAPACITOR, European symbol
+Change Component Description : Designator=C15 Old Description= New Description=CAPACITOR, European symbol
+Change Component Description : Designator=C16 Old Description= New Description=CAPACITOR, European symbol
+Change Component Description : Designator=C17 Old Description= New Description=CAPACITOR, European symbol
+Change Component Description : Designator=C18 Old Description= New Description=CAPACITOR, European symbol
+Change Component Description : Designator=C19 Old Description= New Description=CAPACITOR, European symbol
+Change Component Description : Designator=Y-DRIVER Old Description= New Description=DRV8825 Carrier    Datasheet
+Change Component Description : Designator=Z-DRIVER Old Description= New Description=DRV8825 Carrier    Datasheet
+Change Component Description : Designator=X7 Old Description= New Description=Mini FIT connector 2 pol   Source: http://www.molex.com
+Change Component Description : Designator=RPI3_PWR Old Description= New Description=Molex - Micro-Fit 3.0 Series connector,  3.00mm (0.118") pitch header, 2 positions.
+Change Component Description : Designator=ENCODER Old Description= New Description=Molex - Micro-Fit 3.0 Series connector,  3.00mm (0.118") pitch header, 3 positions.
+Change Component Description : Designator=Y-STEPPER Old Description= New Description=Molex - Micro-Fit 3.0 Series connector,  3.00mm (0.118") pitch header, 4 positions.
+Change Component Description : Designator=Z-STEPPER Old Description= New Description=Molex - Micro-Fit 3.0 Series connector,  3.00mm (0.118") pitch header, 4 positions.
+Change Component Description : Designator=LIMIT_SWITCH Old Description= New Description=Molex - Micro-Fit 3.0 Series connector,  3.00mm (0.118") pitch header, 8 positions.
+Change Component Description : Designator=IC1 Old Description= New Description=Operational Amplifiers   Single-Supply, MicroAmplifier(TM) Series
+Change Component Description : Designator=Y-JMP Old Description= New Description=PIN HEADER
+Change Component Description : Designator=Z-JMP Old Description= New Description=PIN HEADER
+Change Component Description : Designator=C1 Old Description= New Description=POLARIZED CAPACITOR, European symbol
+Change Component Description : Designator=C3 Old Description= New Description=POLARIZED CAPACITOR, European symbol
+Change Component Description : Designator=C5 Old Description= New Description=POLARIZED CAPACITOR, European symbol
+Change Component Description : Designator=C6 Old Description= New Description=POLARIZED CAPACITOR, European symbol
+Change Component Description : Designator=IC2 Old Description= New Description=Positive VOLTAGE REGULATOR   Source: http://cache.national.com/ds/LM/LM78L05.pdf http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+Change Component Description : Designator=R1 Old Description= New Description=RESISTOR, American symbol
+Change Component Description : Designator=R13 Old Description= New Description=RESISTOR, American symbol
+Change Component Description : Designator=R14 Old Description= New Description=RESISTOR, American symbol
+Change Component Description : Designator=R15 Old Description= New Description=RESISTOR, American symbol
+Change Component Description : Designator=R16 Old Description= New Description=RESISTOR, American symbol
+Change Component Description : Designator=R17 Old Description= New Description=RESISTOR, American symbol
+Change Component Description : Designator=R18 Old Description= New Description=RESISTOR, American symbol
+Change Component Description : Designator=R19 Old Description= New Description=RESISTOR, American symbol
+Change Component Description : Designator=R20 Old Description= New Description=RESISTOR, American symbol
+Change Component Description : Designator=R21 Old Description= New Description=RESISTOR, American symbol
+Change Component Description : Designator=R22 Old Description= New Description=RESISTOR, American symbol
+Change Component Description : Designator=R23 Old Description= New Description=RESISTOR, American symbol
+Change Component Description : Designator=R24 Old Description= New Description=RESISTOR, American symbol
+Change Component Description : Designator=D1 Old Description= New Description=Schottky Diode
+Change Component Description : Designator=D2 Old Description= New Description=Z-Diode
+Change Component Library : Designator=ADC Old Library= New Library=ADC-BurrBrown.IntLib
+Change Component Library : Designator=IC1 Old Library= New Library=burr-brown.IntLib
+Change Component Library : Designator=Y-JMP Old Library= New Library=con-lstb.IntLib
+Change Component Library : Designator=Z-JMP Old Library= New Library=con-lstb.IntLib
+Change Component Library : Designator=ENCODER Old Library= New Library=con-molex-micro-fit-3_0.IntLib
+Change Component Library : Designator=LIMIT_SWITCH Old Library= New Library=con-molex-micro-fit-3_0.IntLib
+Change Component Library : Designator=RPI3_PWR Old Library= New Library=con-molex-micro-fit-3_0.IntLib
+Change Component Library : Designator=Y-STEPPER Old Library= New Library=con-molex-micro-fit-3_0.IntLib
+Change Component Library : Designator=Z-STEPPER Old Library= New Library=con-molex-micro-fit-3_0.IntLib
+Change Component Library : Designator=X7 Old Library= New Library=con-molex.IntLib
+Change Component Library : Designator=F1 Old Library= New Library=cs-movement-custom-lib.IntLib
+Change Component Library : Designator=F2 Old Library= New Library=cs-movement-custom-lib.IntLib
+Change Component Library : Designator=U$3 Old Library= New Library=cs-movement-custom-lib.IntLib
+Change Component Library : Designator=D1 Old Library= New Library=diode.IntLib
+Change Component Library : Designator=D2 Old Library= New Library=diode.IntLib
+Change Component Library : Designator=U$2 Old Library= New Library=e14_Rpi3_RevA.IntLib
+Change Component Library : Designator=ISO-AMP Old Library= New Library=isolated-amp-avago.IntLib
+Change Component Library : Designator=IC2 Old Library= New Library=linear.IntLib
+Change Component Library : Designator=C1 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=C3 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=C5 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=C6 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=C7 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=C8 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=C9 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=C10 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=C12 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=C13 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=C14 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=C15 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=C16 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=C17 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=C18 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=C19 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=R1 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=R13 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=R14 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=R15 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=R16 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=R17 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=R18 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=R19 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=R20 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=R21 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=R22 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=R23 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=R24 Old Library= New Library=rcl.IntLib
+Change Component Library : Designator=Y-DRIVER Old Library= New Library=RepRapjr.IntLib
+Change Component Library : Designator=Z-DRIVER Old Library= New Library=RepRapjr.IntLib
+Added Pin To Net: NetName=N$60 Pin=C10-1
+Added Pin To Net: NetName=N$59 Pin=C10-2
+Change Net Name : Old Net Name=N$1 New Net Name=NetD2_C
+Change Net Name : Old Net Name=N$11 New Net Name=NetY-DRIVER_B2
+Change Net Name : Old Net Name=N$12 New Net Name=NetY-DRIVER_B1
+Change Net Name : Old Net Name=N$13 New Net Name=NetY-DRIVER_A1
+Change Net Name : Old Net Name=N$14 New Net Name=NetY-DRIVER_A2
+Change Net Name : Old Net Name=N$15 New Net Name=NetY-DRIVER_M0
+Change Net Name : Old Net Name=N$16 New Net Name=NetY-DRIVER_M1
+Change Net Name : Old Net Name=N$17 New Net Name=NetY-DRIVER_M2
+Change Net Name : Old Net Name=N$19 New Net Name=NetLIMIT_SWITCH_P$3
+Change Net Name : Old Net Name=N$21 New Net Name=NetLIMIT_SWITCH_P$2
+Change Net Name : Old Net Name=N$22 New Net Name=NetLIMIT_SWITCH_P$1
+Change Net Name : Old Net Name=N$36 New Net Name=NetZ-DRIVER_B2
+Change Net Name : Old Net Name=N$39 New Net Name=NetZ-DRIVER_B1
+Change Net Name : Old Net Name=N$40 New Net Name=NetZ-DRIVER_A1
+Change Net Name : Old Net Name=N$41 New Net Name=NetZ-DRIVER_M0
+Change Net Name : Old Net Name=N$42 New Net Name=NetZ-DRIVER_M1
+Change Net Name : Old Net Name=N$43 New Net Name=NetZ-DRIVER_M2
+Change Net Name : Old Net Name=N$44 New Net Name=NetZ-DRIVER_A2
+Change Net Name : Old Net Name=N$54 New Net Name=NetC7_1
+Change Net Name : Old Net Name=N$55 New Net Name=NetC8_1
+Change Net Name : Old Net Name=N$56 New Net Name=NetISO-AMP_7
+Change Net Name : Old Net Name=N$57 New Net Name=NetISO-AMP_6
+Change Net Name : Old Net Name=N$58 New Net Name=NetIC1_3
+Change Net Name : Old Net Name=N$59 New Net Name=NetC10_2
+Change Net Name : Old Net Name=N$60 New Net Name=NetADC_3
+Change Net Name : Old Net Name=N$62 New Net Name=NetLIMIT_SWITCH_P$4
+Added Pin To Net: NetName=NetC1_+ Pin=C1-+
+Added Pin To Net: NetName=NetC1_+ Pin=U$3-VIN
+Added Net: Name=NetC1_+
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=NetC18_1 Pin=IC2-3
+Added Pin To Net: NetName=NetC18_1 Pin=R23-1
+Added Net: Name=NetC18_1
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=R1-1
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetF1_1 2 Pin=X7-2
+Added Net: Name=NetF1_1 2
+Added Class: Name=CropSenseMovement
+Added Room: Name=CropSenseMovement
