@@ -1,0 +1,47 @@
+Change Component Comment : Designator=C5 Old Comment=10nF New Comment=100nF
+Change Component Comment : Designator=X-DRIVER Old Comment=DRV8825 New Comment=X-DRIVER
+Change Component Comment : Designator=Z-DRIVER Old Comment=DRV8825 New Comment=Z-DRIVER
+Change Component Comment : Designator=D2 Old Comment=SCHOTTKY 45V 10A New Comment=SCHOTTKY
+Change Component Designator: OldDesignator=X-DRIVER NewDesignator=U2
+Change Component Designator: OldDesignator=Z-DRIVER NewDesignator=U3
+Added Component: Designator=C10(RB7.6-15)
+Added Component: Designator=P8(MOLEX_MINI_1X2CCT)
+Added Component: Designator=U4(24V13_BREAKOUT)
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=U4-GND
+Added Pin To Net: NetName=GND Pin=U4-GND
+Added Pin To Net: NetName=GND Pin=U4-GND
+Added Pin To Net: NetName=GND Pin=U4-GND
+Added Pin To Net: NetName=24V Pin=U4-VIN
+Added Pin To Net: NetName=24V Pin=U4-VIN
+Added Pin To Net: NetName=24V Pin=U4-VIN
+Change Net Name : Old Net Name=X-SLEEP New Net Name=X-SLP
+Change Net Name : Old Net Name=Z-SLEEP New Net Name=Z-SLP
+Added Pin To Net: NetName=3V3 Pin=U$2-1
+Added Pin To Net: NetName=3V3 Pin=U$2-17
+Added Net: Name=3V3
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=U4-VM
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetP8_1 Pin=P8-1
+Added Pin To Net: NetName=NetP8_1 Pin=U4-OUTA
+Added Pin To Net: NetName=NetP8_1 Pin=U4-OUTA
+Added Net: Name=NetP8_1
+Added Pin To Net: NetName=NetP8_2 Pin=P8-2
+Added Pin To Net: NetName=NetP8_2 Pin=U4-OUTB
+Added Pin To Net: NetName=NetP8_2 Pin=U4-OUTB
+Added Net: Name=NetP8_2
+Added Pin To Net: NetName=Y-CS-A Pin=U4-CS
+Added Net: Name=Y-CS-A
+Added Pin To Net: NetName=Y-DIR Pin=U4-DIR
+Added Pin To Net: NetName=Y-DIR Pin=U$2-12
+Added Net: Name=Y-DIR
+Added Pin To Net: NetName=Y-PWM Pin=U4-PWM
+Added Pin To Net: NetName=Y-PWM Pin=U$2-10
+Added Net: Name=Y-PWM
+Added Pin To Net: NetName=Y-SLP Pin=U4-SLP
+Added Pin To Net: NetName=Y-SLP Pin=U$2-8
+Added Net: Name=Y-SLP
+Added Member To Class: ClassName=CropSenseMovement Member=Component C10 470uF
+Added Member To Class: ClassName=CropSenseMovement Member=Component P8 Y-PMDC
+Added Member To Class: ClassName=CropSenseMovement Member=Component U4 Y-DRIVER

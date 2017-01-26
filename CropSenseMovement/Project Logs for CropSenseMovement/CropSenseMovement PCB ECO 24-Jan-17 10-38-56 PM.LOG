@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=U2-GND0
+Removed Pin From Net: NetName=GND Pin=U3-GND0
+Change Component Comment : Designator=U1 Old Comment=D24V50F5 DC/DC New Comment=DC/DC
+Change Component Comment : Designator=U2 Old Comment=X-DRIVER New Comment=Y-DRIVER
+Added Component: Designator=C11(C1206)
+Added Component: Designator=R7(6-0805_N)
+Added Component: Designator=R8(6-0805_N)
+Added Component: Designator=U5(TI-DGK8_L)
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=24V Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=5V Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=VBAT-A Pin=C11-2
+Added Pin To Net: NetName=VBAT-A Pin=R7-1
+Added Pin To Net: NetName=VBAT-A Pin=R8-2
+Added Pin To Net: NetName=VBAT-A Pin=U5-5
+Added Net: Name=VBAT-A
+Added Member To Class: ClassName=CropSenseMovement Member=Component C11 100nF
+Added Member To Class: ClassName=CropSenseMovement Member=Component R7 110K
+Added Member To Class: ClassName=CropSenseMovement Member=Component R8 10K
+Added Member To Class: ClassName=CropSenseMovement Member=Component U5 ADC082S021

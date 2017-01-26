@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=Y-CS-A Pin=U4-CS
+Removed Pin From Net: NetName=Z-DIR Pin=U$2-22
+Removed Pin From Net: NetName=Z-STEP Pin=U$2-24
+Removed Pin From Net: NetName=Z-SLP Pin=U$2-26
+Change Component Comment : Designator=R2 Old Comment=10K New Comment=100K
+Change Component Comment : Designator=R3 Old Comment=10K New Comment=100K
+Change Component Comment : Designator=R4 Old Comment=10K New Comment=100K
+Change Component Comment : Designator=R5 Old Comment=10K New Comment=100K
+Change Component Comment : Designator=C11 Old Comment=100nF New Comment=1uF
+Change Component Comment : Designator=R7 Old Comment=110K New Comment=38.3K
+Change Component Comment : Designator=U$2 Old Comment=RPI3_CON New Comment=RPI3-CON
+Added Component: Designator=C12(C1206)
+Added Component: Designator=C13(C1206)
+Added Component: Designator=C14(C1206)
+Added Component: Designator=R9(6-0805_N)
+Added Component: Designator=R10(6-0805_N)
+Added Component: Designator=U6(SOIC127P600X175-8N)
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=5V Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=5V Pin=C13-2
+Added Pin To Net: NetName=5V Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=Y-CS-A Pin=R10-2
+Added Pin To Net: NetName=Y-CS-A Pin=U5-4
+Added Pin To Net: NetName=Y-CS-A Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-4
+Added Pin To Net: NetName=5V Pin=U6-8
+Added Pin To Net: NetName=3.3V Pin=U$2-1
+Added Pin To Net: NetName=Z-DIR Pin=U$2-3
+Added Pin To Net: NetName=Z-STEP Pin=U$2-5
+Added Pin To Net: NetName=Z-SLP Pin=U$2-7
+Added Pin To Net: NetName=CS-ADC Pin=U5-1
+Added Pin To Net: NetName=CS-ADC Pin=U$2-24
+Added Net: Name=CS-ADC
+Added Pin To Net: NetName=MISO Pin=U5-7
+Added Pin To Net: NetName=MISO Pin=U$2-21
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=U5-6
+Added Pin To Net: NetName=MOSI Pin=U$2-19
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=U6-2
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=SCLK Pin=U5-8
+Added Pin To Net: NetName=SCLK Pin=U$2-23
+Added Net: Name=SCLK
+Added Pin To Net: NetName=Y-CS Pin=U4-CS
+Added Pin To Net: NetName=Y-CS Pin=U6-3
+Added Net: Name=Y-CS
+Added Member To Class: ClassName=CropSenseMovement Member=Component C12 1uF
+Added Member To Class: ClassName=CropSenseMovement Member=Component C13 100nF
+Added Member To Class: ClassName=CropSenseMovement Member=Component C14 10nF
+Added Member To Class: ClassName=CropSenseMovement Member=Component R9 10K
+Added Member To Class: ClassName=CropSenseMovement Member=Component R10 158K
+Added Member To Class: ClassName=CropSenseMovement Member=Component U6 LM358DR

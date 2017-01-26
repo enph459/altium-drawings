@@ -1,0 +1,257 @@
+Removed Pin From Net: NetName=3.3V Pin=ADC-1
+Removed Pin From Net: NetName=GND Pin=C1--
+Removed Pin From Net: NetName=5V Pin=C3-+
+Removed Pin From Net: NetName=GND Pin=C3--
+Removed Pin From Net: NetName=GND Pin=C5--
+Removed Pin From Net: NetName=GND Pin=C6--
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=3.3V Pin=C12-1
+Removed Pin From Net: NetName=Z-MIN Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=Z-MAX Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=D2-A
+Removed Pin From Net: NetName=3.3V Pin=ENCODER-P$1
+Removed Pin From Net: NetName=GND Pin=ENCODER-P$3
+Removed Pin From Net: NetName=GND Pin=IC2-2
+Removed Pin From Net: NetName=GND Pin=ISO-AMP-3
+Removed Pin From Net: NetName=GND Pin=ISO-AMP-4
+Removed Pin From Net: NetName=GND Pin=LIMIT_SWITCH-P$5
+Removed Pin From Net: NetName=GND Pin=LIMIT_SWITCH-P$6
+Removed Pin From Net: NetName=GND Pin=LIMIT_SWITCH-P$7
+Removed Pin From Net: NetName=GND Pin=LIMIT_SWITCH-P$8
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=Z-MIN Pin=R19-2
+Removed Pin From Net: NetName=Z-MAX Pin=R20-2
+Removed Pin From Net: NetName=3.3V Pin=R24-1
+Removed Pin From Net: NetName=5V Pin=RPI3_PWR-P$1
+Removed Pin From Net: NetName=GND Pin=RPI3_PWR-P$2
+Removed Pin From Net: NetName=3.3V Pin=U$2-1
+Removed Pin From Net: NetName=5V Pin=U$3-VOUT
+Removed Pin From Net: NetName=5V Pin=Y-JMP-1
+Removed Pin From Net: NetName=5V Pin=Y-JMP-3
+Removed Pin From Net: NetName=5V Pin=Y-JMP-5
+Removed Pin From Net: NetName=5V Pin=Z-JMP-1
+Removed Pin From Net: NetName=5V Pin=Z-JMP-3
+Removed Pin From Net: NetName=5V Pin=Z-JMP-5
+Removed Member From Class: ClassName=CropSenseMovement Member=ADC
+Removed Member From Class: ClassName=CropSenseMovement Member=C10
+Removed Member From Class: ClassName=CropSenseMovement Member=C12
+Removed Member From Class: ClassName=CropSenseMovement Member=C13
+Removed Member From Class: ClassName=CropSenseMovement Member=C14
+Removed Member From Class: ClassName=CropSenseMovement Member=C15
+Removed Member From Class: ClassName=CropSenseMovement Member=C16
+Removed Member From Class: ClassName=CropSenseMovement Member=C17
+Removed Member From Class: ClassName=CropSenseMovement Member=C18
+Removed Member From Class: ClassName=CropSenseMovement Member=C19
+Removed Member From Class: ClassName=CropSenseMovement Member=ENCODER
+Removed Member From Class: ClassName=CropSenseMovement Member=IC1
+Removed Member From Class: ClassName=CropSenseMovement Member=IC2
+Removed Member From Class: ClassName=CropSenseMovement Member=ISO-AMP
+Removed Member From Class: ClassName=CropSenseMovement Member=LIMIT_SWITCH
+Removed Member From Class: ClassName=CropSenseMovement Member=R13
+Removed Member From Class: ClassName=CropSenseMovement Member=R14
+Removed Member From Class: ClassName=CropSenseMovement Member=R15
+Removed Member From Class: ClassName=CropSenseMovement Member=R16
+Removed Member From Class: ClassName=CropSenseMovement Member=R17
+Removed Member From Class: ClassName=CropSenseMovement Member=R18
+Removed Member From Class: ClassName=CropSenseMovement Member=R19
+Removed Member From Class: ClassName=CropSenseMovement Member=R20
+Removed Member From Class: ClassName=CropSenseMovement Member=R21
+Removed Member From Class: ClassName=CropSenseMovement Member=R22
+Removed Member From Class: ClassName=CropSenseMovement Member=R23
+Removed Member From Class: ClassName=CropSenseMovement Member=R24
+Removed Member From Class: ClassName=CropSenseMovement Member=RPI3_PWR
+Removed Member From Class: ClassName=CropSenseMovement Member=U$3
+Removed Member From Class: ClassName=CropSenseMovement Member=X7
+Removed Member From Class: ClassName=CropSenseMovement Member=Y-JMP
+Removed Member From Class: ClassName=CropSenseMovement Member=Y-STEPPER
+Removed Member From Class: ClassName=CropSenseMovement Member=Z-JMP
+Removed Member From Class: ClassName=CropSenseMovement Member=Z-STEPPER
+Change Component Footprint: Designator=C7 Old Footprint=C1206K New Footprint=C1206
+Change Component Footprint: Designator=C8 Old Footprint=C1206K New Footprint=C1206
+Change Component Footprint: Designator=C9 Old Footprint=C1206K New Footprint=C1206
+Change Component Footprint: Designator=D2 Old Footprint=DO35Z10 New Footprint=SMC
+Change Component Footprint: Designator=Y-DRIVER Old Footprint=DRV8825BREAKOUT New Footprint=DRV8825_BREAKOUT
+Change Component Footprint: Designator=Z-DRIVER Old Footprint=DRV8825BREAKOUT New Footprint=DRV8825_BREAKOUT
+Change Component Footprint: Designator=C1 Old Footprint=E2,5-6 New Footprint=RB7.6-15
+Change Component Footprint: Designator=C3 Old Footprint=E2,5-6 New Footprint=RB7.6-15
+Change Component Footprint: Designator=D1 Old Footprint=P6T15 New Footprint=DIODE-0.7
+Change Component Footprint: Designator=C5 Old Footprint=PANASONIC_E New Footprint=C1206
+Change Component Footprint: Designator=C6 Old Footprint=PANASONIC_E New Footprint=C1206
+Change Component Footprint: Designator=R1 Old Footprint=R1206 New Footprint=6-0805_N
+Change Component Comment : Designator=C7 Old Comment=0.1uF New Comment=100nF
+Change Component Comment : Designator=C9 Old Comment=0.1uF New Comment=100nF
+Change Component Comment : Designator=F1 Old Comment=4A New Comment=10A
+Change Component Comment : Designator=D2 Old Comment=12V New Comment=SCHOTTKY 45V 10A
+Change Component Comment : Designator=C3 Old Comment=47uF New Comment=100uF
+Change Component Comment : Designator=C8 Old Comment=100pF New Comment=100nF
+Change Component Comment : Designator=C5 Old Comment=100uF New Comment=10nF
+Change Component Comment : Designator=C6 Old Comment=100uF New Comment=100nF
+Change Component Comment : Designator=Y-DRIVER Old Comment=DRV8825BREAKOUT New Comment=DRV8825
+Change Component Comment : Designator=Z-DRIVER Old Comment=DRV8825BREAKOUT New Comment=DRV8825
+Change Component Comment : Designator=D1 Old Comment=VSB1545 New Comment=ZENER 24V
+Change Component Designator: OldDesignator=Y-DRIVER NewDesignator=X-DRIVER
+Added Component: Designator=C2(RB7.6-15)
+Added Component: Designator=C4(RB7.6-15)
+Added Component: Designator=P1(MOLEX_MINI_1X2CCT)
+Added Component: Designator=P2(MOLEX_MICRO_2X1CCT)
+Added Component: Designator=P3(HDR2X3)
+Added Component: Designator=P4(MOLEX_Micro_4x1CCT)
+Added Component: Designator=P5(HDR2X3)
+Added Component: Designator=P6(MOLEX_Micro_4x1CCT)
+Added Component: Designator=P7(MOLEX_MICRO_3X1CCT)
+Added Component: Designator=P9(MOLEX_MICRO_4X2CCT)
+Added Component: Designator=R2(6-0805_N)
+Added Component: Designator=R3(6-0805_N)
+Added Component: Designator=R4(6-0805_N)
+Added Component: Designator=R5(6-0805_N)
+Added Component: Designator=R6(6-0805_N)
+Added Component: Designator=U1(D24VXXFX_BREAKOUT)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=5V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=Z-MAX Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=Z-MIN Pin=C9-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=5V Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=5V Pin=P3-1
+Added Pin To Net: NetName=5V Pin=P3-3
+Added Pin To Net: NetName=5V Pin=P3-5
+Added Pin To Net: NetName=5V Pin=P5-1
+Added Pin To Net: NetName=5V Pin=P5-3
+Added Pin To Net: NetName=5V Pin=P5-5
+Added Pin To Net: NetName=3.3V Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P7-3
+Added Pin To Net: NetName=GND Pin=P9-5
+Added Pin To Net: NetName=GND Pin=P9-6
+Added Pin To Net: NetName=GND Pin=P9-7
+Added Pin To Net: NetName=GND Pin=P9-8
+Added Pin To Net: NetName=3.3V Pin=R1-2
+Added Pin To Net: NetName=Z-MAX Pin=R3-2
+Added Pin To Net: NetName=Z-MIN Pin=R5-2
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=5V Pin=U1-VOUT
+Change Net Name : Old Net Name=Y-DIR New Net Name=X-DIR
+Change Net Name : Old Net Name=Y-SLEEP New Net Name=X-SLEEP
+Change Net Name : Old Net Name=Y-STEP New Net Name=X-STEP
+Added Pin To Net: NetName=24V Pin=C3-1
+Added Pin To Net: NetName=24V Pin=C4-1
+Added Pin To Net: NetName=24V Pin=D2-2
+Added Pin To Net: NetName=24V Pin=F2-1
+Added Pin To Net: NetName=24V Pin=X-DRIVER-VMOT
+Added Pin To Net: NetName=24V Pin=Z-DRIVER-VMOT
+Added Net: Name=24V
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=F2-2
+Added Pin To Net: NetName=NetC1_1 Pin=U1-VIN
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R6-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=F1-2
+Added Pin To Net: NetName=NetD2_1 Pin=R6-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=NetF1_1 Pin=P1-1
+Added Net: Name=NetF1_1
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=X-DRIVER-M0
+Added Net: Name=NetP3_2
+Added Pin To Net: NetName=NetP3_4 Pin=P3-4
+Added Pin To Net: NetName=NetP3_4 Pin=X-DRIVER-M1
+Added Net: Name=NetP3_4
+Added Pin To Net: NetName=NetP3_6 Pin=P3-6
+Added Pin To Net: NetName=NetP3_6 Pin=X-DRIVER-M2
+Added Net: Name=NetP3_6
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_1 Pin=X-DRIVER-B2
+Added Net: Name=NetP4_1
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Pin To Net: NetName=NetP4_2 Pin=X-DRIVER-B1
+Added Net: Name=NetP4_2
+Added Pin To Net: NetName=NetP4_3 Pin=P4-3
+Added Pin To Net: NetName=NetP4_3 Pin=X-DRIVER-A1
+Added Net: Name=NetP4_3
+Added Pin To Net: NetName=NetP4_4 Pin=P4-4
+Added Pin To Net: NetName=NetP4_4 Pin=X-DRIVER-A2
+Added Net: Name=NetP4_4
+Added Pin To Net: NetName=NetP5_2 Pin=P5-2
+Added Pin To Net: NetName=NetP5_2 Pin=Z-DRIVER-M0
+Added Net: Name=NetP5_2
+Added Pin To Net: NetName=NetP5_4 Pin=P5-4
+Added Pin To Net: NetName=NetP5_4 Pin=Z-DRIVER-M1
+Added Net: Name=NetP5_4
+Added Pin To Net: NetName=NetP5_6 Pin=P5-6
+Added Pin To Net: NetName=NetP5_6 Pin=Z-DRIVER-M2
+Added Net: Name=NetP5_6
+Added Pin To Net: NetName=NetP6_1 Pin=P6-1
+Added Pin To Net: NetName=NetP6_1 Pin=Z-DRIVER-B2
+Added Net: Name=NetP6_1
+Added Pin To Net: NetName=NetP6_2 Pin=P6-2
+Added Pin To Net: NetName=NetP6_2 Pin=Z-DRIVER-B1
+Added Net: Name=NetP6_2
+Added Pin To Net: NetName=NetP6_3 Pin=P6-3
+Added Pin To Net: NetName=NetP6_3 Pin=Z-DRIVER-A1
+Added Net: Name=NetP6_3
+Added Pin To Net: NetName=NetP6_4 Pin=P6-4
+Added Pin To Net: NetName=NetP6_4 Pin=Z-DRIVER-A2
+Added Net: Name=NetP6_4
+Added Pin To Net: NetName=NetP9_1 Pin=P9-1
+Added Pin To Net: NetName=NetP9_1 Pin=R2-1
+Added Net: Name=NetP9_1
+Added Pin To Net: NetName=NetP9_2 Pin=P9-2
+Added Pin To Net: NetName=NetP9_2 Pin=R4-1
+Added Net: Name=NetP9_2
+Added Pin To Net: NetName=NetP9_3 Pin=P9-3
+Added Pin To Net: NetName=NetP9_3 Pin=R3-1
+Added Net: Name=NetP9_3
+Added Pin To Net: NetName=NetP9_4 Pin=P9-4
+Added Pin To Net: NetName=NetP9_4 Pin=R5-1
+Added Net: Name=NetP9_4
+Added Pin To Net: NetName=X-MAX Pin=C6-2
+Added Pin To Net: NetName=X-MAX Pin=R2-2
+Added Pin To Net: NetName=X-MAX Pin=U$2-37
+Added Net: Name=X-MAX
+Added Pin To Net: NetName=X-MIN Pin=C8-2
+Added Pin To Net: NetName=X-MIN Pin=R4-2
+Added Pin To Net: NetName=X-MIN Pin=U$2-35
+Added Net: Name=X-MIN
+Added Pin To Net: NetName=Y-ENC Pin=C5-2
+Added Pin To Net: NetName=Y-ENC Pin=P7-2
+Added Pin To Net: NetName=Y-ENC Pin=R1-1
+Added Pin To Net: NetName=Y-ENC Pin=U$2-32
+Added Net: Name=Y-ENC
+Added Member To Class: ClassName=CropSenseMovement Member=Component C2 47uF
+Added Member To Class: ClassName=CropSenseMovement Member=Component C4 100uF
+Added Member To Class: ClassName=CropSenseMovement Member=Component P1 BAT-PWR-IN
+Added Member To Class: ClassName=CropSenseMovement Member=Component P2 RPI_PWR
+Added Member To Class: ClassName=CropSenseMovement Member=Component P3 X-JMP
+Added Member To Class: ClassName=CropSenseMovement Member=Component P4 X-STEPPER
+Added Member To Class: ClassName=CropSenseMovement Member=Component P5 Z-JMP
+Added Member To Class: ClassName=CropSenseMovement Member=Component P6 Z-STEPPER
+Added Member To Class: ClassName=CropSenseMovement Member=Component P7 Encoder
+Added Member To Class: ClassName=CropSenseMovement Member=Component P9 MOLEX_MICRO_4X2
+Added Member To Class: ClassName=CropSenseMovement Member=Component R2 10K
+Added Member To Class: ClassName=CropSenseMovement Member=Component R3 10K
+Added Member To Class: ClassName=CropSenseMovement Member=Component R4 10K
+Added Member To Class: ClassName=CropSenseMovement Member=Component R5 10K
+Added Member To Class: ClassName=CropSenseMovement Member=Component R6 10K
+Added Member To Class: ClassName=CropSenseMovement Member=Component U1 D24V50F5 DC/DC
+Added Room: Name=CropSenseMovement

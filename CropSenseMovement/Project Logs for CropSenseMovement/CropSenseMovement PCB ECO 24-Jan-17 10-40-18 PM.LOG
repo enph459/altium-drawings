@@ -1,0 +1,55 @@
+Added Component: Designator=U1(D24VXXFX_BREAKOUT)
+Added Component: Designator=U2(DRV8825_BREAKOUT)
+Added Component: Designator=U3(DRV8825_BREAKOUT)
+Added Component: Designator=U4(24V13_BREAKOUT)
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=NetC1_1 Pin=U1-VIN
+Added Pin To Net: NetName=5V Pin=U1-VOUT
+Added Pin To Net: NetName=NetP4_3 Pin=U2-A1
+Added Pin To Net: NetName=NetP4_4 Pin=U2-A2
+Added Pin To Net: NetName=NetP4_2 Pin=U2-B1
+Added Pin To Net: NetName=NetP4_1 Pin=U2-B2
+Added Pin To Net: NetName=X-DIR Pin=U2-DIR
+Added Pin To Net: NetName=GND Pin=U2-GND
+Added Pin To Net: NetName=GND Pin=U2-GND
+Added Pin To Net: NetName=NetP3_2 Pin=U2-M0
+Added Pin To Net: NetName=NetP3_4 Pin=U2-M1
+Added Pin To Net: NetName=NetP3_6 Pin=U2-M2
+Added Pin To Net: NetName=5V Pin=U2-RST
+Added Pin To Net: NetName=X-SLP Pin=U2-SLP
+Added Pin To Net: NetName=X-STEP Pin=U2-STEP
+Added Pin To Net: NetName=24V Pin=U2-VMOT
+Added Pin To Net: NetName=NetP6_3 Pin=U3-A1
+Added Pin To Net: NetName=NetP6_4 Pin=U3-A2
+Added Pin To Net: NetName=NetP6_2 Pin=U3-B1
+Added Pin To Net: NetName=NetP6_1 Pin=U3-B2
+Added Pin To Net: NetName=Z-DIR Pin=U3-DIR
+Added Pin To Net: NetName=GND Pin=U3-GND
+Added Pin To Net: NetName=GND Pin=U3-GND
+Added Pin To Net: NetName=NetP5_2 Pin=U3-M0
+Added Pin To Net: NetName=NetP5_4 Pin=U3-M1
+Added Pin To Net: NetName=NetP5_6 Pin=U3-M2
+Added Pin To Net: NetName=5V Pin=U3-RST
+Added Pin To Net: NetName=Z-SLP Pin=U3-SLP
+Added Pin To Net: NetName=Z-STEP Pin=U3-STEP
+Added Pin To Net: NetName=24V Pin=U3-VMOT
+Added Pin To Net: NetName=Y-CS-A Pin=U4-CS
+Added Pin To Net: NetName=Y-DIR Pin=U4-DIR
+Added Pin To Net: NetName=GND Pin=U4-GND
+Added Pin To Net: NetName=GND Pin=U4-GND
+Added Pin To Net: NetName=GND Pin=U4-GND
+Added Pin To Net: NetName=GND Pin=U4-GND
+Added Pin To Net: NetName=NetP8_1 Pin=U4-OUTA
+Added Pin To Net: NetName=NetP8_1 Pin=U4-OUTA
+Added Pin To Net: NetName=NetP8_2 Pin=U4-OUTB
+Added Pin To Net: NetName=NetP8_2 Pin=U4-OUTB
+Added Pin To Net: NetName=Y-PWM Pin=U4-PWM
+Added Pin To Net: NetName=Y-SLP Pin=U4-SLP
+Added Pin To Net: NetName=24V Pin=U4-VIN
+Added Pin To Net: NetName=24V Pin=U4-VIN
+Added Pin To Net: NetName=NetC10_1 Pin=U4-VM
+Added Member To Class: ClassName=CropSenseMovement Member=Component U1 DC/DC
+Added Member To Class: ClassName=CropSenseMovement Member=Component U2 Y-DRIVER
+Added Member To Class: ClassName=CropSenseMovement Member=Component U3 Z-DRIVER
+Added Member To Class: ClassName=CropSenseMovement Member=Component U4 Y-DRIVER

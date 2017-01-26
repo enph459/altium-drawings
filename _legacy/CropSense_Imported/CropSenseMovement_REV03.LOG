@@ -1,0 +1,111 @@
+Importer Log Report
+Project : CropSenseMovement_REV03.PrjPcb
+
+Section : Analyze Document - C:\Users\arjun\Google Drive\UBC\UBC 4\ENPH 459\Electrical\EagleCAD Drawings\Custom Libraries\cs-movement-custom-lib.lbr
+    Analyzing data of C:\Users\arjun\Google Drive\UBC\UBC 4\ENPH 459\Electrical\EagleCAD Drawings\Custom Libraries\cs-movement-custom-lib.lbr
+    Load settings
+    Load layers 129
+    Load Library library
+    Load Library ""
+    Load Packages 8
+    Load Symbols 8
+    Load DeviceSets 9
+EndSection
+
+Section : Analyze Document - C:\Users\arjun\Google Drive\UBC\UBC 4\ENPH 459\Electrical\EagleCAD Drawings\CropSenseMovement\CropSenseMovement_REV03.brd
+    Analyzing data of C:\Users\arjun\Google Drive\UBC\UBC 4\ENPH 459\Electrical\EagleCAD Drawings\CropSenseMovement\CropSenseMovement_REV03.brd
+    Load settings
+    Load layers 129
+    Load Library "con-molex"
+    Load Packages 1
+    Load Library "diode"
+    Load Packages 2
+    Load Library "rcl"
+    Load Packages 4
+    Load Library "con-lstb"
+    Load Packages 1
+    Load Library "RepRapjr"
+    Load Packages 1
+    Load Library "e14_Rpi3_RevA"
+    Load Packages 1
+    Load Library "isolated-amp-avago"
+    Load Packages 1
+    Load Library "burr-brown"
+    Load Packages 1
+    Load Library "ADC-BurrBrown"
+    Load Packages 1
+    Load Library "linear"
+    Load Packages 1
+    Load Library "con-molex-micro-fit-3_0"
+    Load Packages 4
+    Load Library "cs-movement-custom-lib"
+    Load Packages 2
+EndSection
+
+Section : Analyze Document - C:\Users\arjun\Google Drive\UBC\UBC 4\ENPH 459\Electrical\EagleCAD Drawings\CropSenseMovement\CropSenseMovement_REV03.sch
+    Analyzing data of C:\Users\arjun\Google Drive\UBC\UBC 4\ENPH 459\Electrical\EagleCAD Drawings\CropSenseMovement\CropSenseMovement_REV03.sch
+    Load settings
+    Load layers 129
+    Load schematic
+    Load Libraries 14
+    Load Library "SparkFun-Aesthetics"
+    Load Packages 0
+    Load Symbols 5
+    Load DeviceSets 5
+    Load Library "supply1"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "con-molex"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "diode"
+    Load Packages 31
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "rcl"
+    Load Packages 339
+    Load Symbols 3
+    Load DeviceSets 3
+    Load Library "con-lstb"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "RepRapjr"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "e14_Rpi3_RevA"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "isolated-amp-avago"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "burr-brown"
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "ADC-BurrBrown"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "linear"
+    Load Packages 5
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "con-molex-micro-fit-3_0"
+    Load Packages 53
+    Load Symbols 4
+    Load DeviceSets 4
+    Load Library "cs-movement-custom-lib"
+    Load Packages 2
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 76
+    Load Sheets 1
+EndSection
