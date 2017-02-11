@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Y-PWM Pin=U$2-10
+Removed Pin From Net: NetName=Y-DIR Pin=U$2-12
+Change Component Comment : Designator=P1 Old Comment=BAT-IN New Comment=BAT-PWR-IN
+Added Pin To Net: NetName=Y-DIR Pin=U$2-10
+Added Pin To Net: NetName=Y-PWM Pin=U$2-12

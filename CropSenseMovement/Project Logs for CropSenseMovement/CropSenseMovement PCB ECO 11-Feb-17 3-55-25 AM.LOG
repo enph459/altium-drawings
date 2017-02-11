@@ -1,0 +1,6 @@
+Added Component: Designator=U1(D24VXXFX_BREAKOUT)
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=GND Pin=U1-GND
+Added Pin To Net: NetName=NetF2_2 Pin=U1-VIN
+Added Pin To Net: NetName=5V Pin=U1-VOUT
+Added Member To Class: ClassName=CropSenseMovement Member=Component U1 DC/DC

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=R3-1
+Change Component Footprint: Designator=R3 Old Footprint=VR5 New Footprint=Trimpot TC33
+Change Component Comment : Designator=R3 Old Comment=50k New Comment=5K
+Added Pin To Net: NetName=GND Pin=R3-3
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U2-VREF
+Added Net: Name=NetR3_2

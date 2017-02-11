@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=5V Pin=P2-1
+Removed Pin From Net: NetName=5V Pin=P2-3
+Removed Pin From Net: NetName=5V Pin=P2-5
+Removed Pin From Net: NetName=5V Pin=P3-1
+Removed Pin From Net: NetName=5V Pin=P3-3
+Removed Pin From Net: NetName=5V Pin=P3-5
+Removed Member From Class: ClassName=CropSenseMovement Member=P2
+Removed Member From Class: ClassName=CropSenseMovement Member=P3
+Added Component: Designator=S1(DIP-6)
+Added Component: Designator=S2(DIP-6)
+Added Pin To Net: NetName=5V Pin=S1-1
+Added Pin To Net: NetName=5V Pin=S1-2
+Added Pin To Net: NetName=5V Pin=S1-3
+Added Pin To Net: NetName=5V Pin=S2-1
+Added Pin To Net: NetName=5V Pin=S2-2
+Added Pin To Net: NetName=5V Pin=S2-3
+Added Pin To Net: NetName=NetS1_4 Pin=S1-4
+Added Pin To Net: NetName=NetS1_4 Pin=U3-M2
+Added Net: Name=NetS1_4
+Added Pin To Net: NetName=NetS1_5 Pin=S1-5
+Added Pin To Net: NetName=NetS1_5 Pin=U3-M1
+Added Net: Name=NetS1_5
+Added Pin To Net: NetName=NetS1_6 Pin=S1-6
+Added Pin To Net: NetName=NetS1_6 Pin=U3-M0
+Added Net: Name=NetS1_6
+Added Pin To Net: NetName=NetS2_4 Pin=S2-4
+Added Pin To Net: NetName=NetS2_4 Pin=U4-M2
+Added Net: Name=NetS2_4
+Added Pin To Net: NetName=NetS2_5 Pin=S2-5
+Added Pin To Net: NetName=NetS2_5 Pin=U4-M1
+Added Net: Name=NetS2_5
+Added Pin To Net: NetName=NetS2_6 Pin=S2-6
+Added Pin To Net: NetName=NetS2_6 Pin=U4-M0
+Added Net: Name=NetS2_6
+Added Member To Class: ClassName=CropSenseMovement Member=Component S1 Y-DIP
+Added Member To Class: ClassName=CropSenseMovement Member=Component S2 Z-DIP

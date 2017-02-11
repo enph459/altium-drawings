@@ -1,0 +1,3 @@
+Change Component Comment : Designator=P1 Old Comment=BAT-PWR New Comment=BAT-PWR-IN
+Change Component Comment : Designator=S1 Old Comment=Y-DIP New Comment=X-DIP
+Change Component Comment : Designator=U3 Old Comment=Y-DRIVER New Comment=X-DRIVER

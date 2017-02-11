@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=D3 Old Footprint=3.2X1.6X1.1 New Footprint=1206 SMD LED
+Change Component Footprint: Designator=D4 Old Footprint=3.2X1.6X1.1 New Footprint=1206 SMD LED
+Change Component Footprint: Designator=D5 Old Footprint=3.2X1.6X1.1 New Footprint=1206 SMD LED
+Change Component Footprint: Designator=D6 Old Footprint=3.2X1.6X1.1 New Footprint=1206 SMD LED
+Change Component Footprint: Designator=D7 Old Footprint=3.2X1.6X1.1 New Footprint=1206 SMD LED
+Change Component Footprint: Designator=C3 Old Footprint=RB7.6-15 New Footprint=CAP 12.5MM
+Change Component Comment : Designator=C3 Old Comment=470uF New Comment=560uF
+Added Member To Class: ClassName=CropSenseMovement Member=Component C3 560uF
+Added Member To Class: ClassName=CropSenseMovement Member=Component C6 1uF
+Added Member To Class: ClassName=CropSenseMovement Member=Component D4 BLU
+Added Member To Class: ClassName=CropSenseMovement Member=Component D5 BLU
+Added Member To Class: ClassName=CropSenseMovement Member=Component R3 50k
+Added Member To Class: ClassName=CropSenseMovement Member=Component R4 1.4K
+Added Member To Class: ClassName=CropSenseMovement Member=Component R5 1.4K
+Added Room: Name=CropSenseMovement

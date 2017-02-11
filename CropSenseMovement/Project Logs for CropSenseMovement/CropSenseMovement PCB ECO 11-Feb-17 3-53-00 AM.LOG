@@ -1,0 +1,4 @@
+Added Component: Designator=R15(6-0805_N)
+Added Pin To Net: NetName=Y-ENC Pin=R15-1
+Added Pin To Net: NetName=3.3V Pin=R15-2
+Added Member To Class: ClassName=CropSenseMovement Member=Component R15 10K
