@@ -72,6 +72,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ROUVLAVG
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for CropSenseMovement\Design Rule Check - CropSenseMovement.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
