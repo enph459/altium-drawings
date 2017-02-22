@@ -1,0 +1,29 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: CropSenseMovement.PcbDoc   22-Feb-17  12:05:28 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : CropSenseMovement.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.35mm (14mil)          +/-0mm (0mil)                     Round             14        PTH        230.20mm (9.06inch)
+T2      0.35mm (14mil)                                            Round             16        PTH        151.83mm (5.98inch)
+T3      0.6mm (24mil)                                             Round             6         PTH        54.27mm (2.14inch)
+T4      0.9mm (35mil)                                             Round             37        PTH        159.45mm (6.28inch)
+T5      0.9mm (35mil)                                             Round             12        PTH        72.94mm (2.87inch)
+T6      1mm (39mil)             +/-0mm (0mil)                     Round             1         PTH        0.00mm (0.00inch)
+T7      1.016mm (40mil)         +/-0.05mm (2mil)                  Round             18        PTH        99.06mm (3.90inch)
+T8      1.016mm (40mil)                                           Round             40        PTH        109.82mm (4.32inch)
+T9      1.02mm (40mil)          +/-0.05mm (2mil)                  Round             21        PTH        262.25mm (10.32inch)
+T10     1.17mm (46mil)                                            Round             8         PTH        46.30mm (1.82inch)
+T11     1.4mm (55mil)           +/-0.05mm (2mil)                  Round             4         PTH        89.72mm (3.53inch)
+T12     1.27mm (50mil)                                            Round             10        NPTH       264.89mm (10.43inch)
+T13     2.184mm (86mil)                                           Round             2         NPTH       22.36mm (0.88inch)
+T14     2.184mm (86mil)                                           Round             2         NPTH       20.91mm (0.82inch)
+T15     3mm (118mil)                                              Round             4         NPTH       100.07mm (3.94inch)
+T16     3.4mm (134mil)                                            Round             2         NPTH       106.40mm (4.19inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              197
+
+Total Processing Time (hh:mm:ss) : 00:00:01

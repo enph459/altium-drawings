@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: C:\Users\arjun\Google Drive\UBC\UBC 4\ENPH 459\Electrical\Altium Drawings\CropSenseMovement\CropSenseMovement.PcbDoc
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=9.84
+RuleKind=SolderMaskExpansion|RuleName=mlMinStopFrame|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width_HV|Scope=Board|Minimum=9.84
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance (Same Net)|Scope=Board|Minimum=0.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.91
