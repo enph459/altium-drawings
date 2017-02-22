@@ -1,0 +1,75 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : Raspberry Pie 3
+Receiving System Product I.D.: 
+File Name                    : Raspberry Pie 3
+Sending System               : unknown
+Preprocessor Version         : unknown
+File Creation Date           : 20160728.104345
+Model Creation Date          : 
+Units                        : MM
+Model Space Scale            : 1
+Author                       : unknown
+Organization                 : unknown
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+ERROR:   DE# 75331, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 75429, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 75447, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 75465, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 75483, TYPE   128: Unable to create a bspline surface.
+ERROR:   DE# 75501, TYPE   128: Unable to create a bspline surface.
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              14
+  Highest number of significant digits:                     14
+  Average number of significant digits:                8.63587
+  Maximum distance to origin:                          8.43928
+  Minimum distance to origin:                             0.05
+  Effective number of significant digits:              13.9949
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+124  Transformation matrix                           11        11
+126  Rational B-spline curve                      19356     19356
+128  Rational B-spline surface                     7641      7635
+186  Manifold Solid B-rep Object                    408       408
+308  Subfigure definition                             9         9
+314  Color definition                                19        19
+406  Property                                       368       368
+408  Singular subfigure instance                     11        11
+502  Vertex list                                    408       408
+504  Edge entity                                    408       408
+508  Loop entity                                   8417      8417
+510  Face entity                                   7641      7641
+514  Shell entity                                   408       408
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       408
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Tuesday, February 21, 2017 15:35:23
+Finish time: Tuesday, February 21, 2017 15:37:39
+Processing time: 0 days, 00 hours, 02 mins, 16 secs
